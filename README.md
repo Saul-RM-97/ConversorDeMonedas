@@ -5,7 +5,7 @@ donde se podra manipular la conversion de la moneda desde una API,
 manipulacio  de datos JSON y
 Finalmente mostrar las monedas de interes!
 
-#Los pasos para completar este desafío se detallarán a continuación y estarán disponibles en la sección adyacente:
+#Los pasos para completar este challenge de conversor de moneda son:
 
 °Configuración del Ambiente Java;
 
