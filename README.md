@@ -1,20 +1,20 @@
 # ConversorDeMonedas
 
-Este conversor de monedas esta realizado en el lenguaje de programación JAVA
-Donde se podra manipular la conversion de la moneda desde una API
-Manipulacio  de datos JSON
+Este conversor de monedas esta realizado en el lenguaje de programación JAVA,
+donde se podra manipular la conversion de la moneda desde una API,
+manipulacio  de datos JSON y
 Finalmente mostrar las monedas de interes!
 
-*Los pasos para completar este desafío se detallarán a continuación y estarán disponibles en la sección adyacente:
+#Los pasos para completar este desafío se detallarán a continuación y estarán disponibles en la sección adyacente:
 
-Configuración del Ambiente Java;
+°Configuración del Ambiente Java;
 
-Creación del Proyecto;
+°Creación del Proyecto;
 
-Consumo de la API;
+°Consumo de la API;
 
-Análisis de la Respuesta JSON;
+°Análisis de la Respuesta JSON;
 
-Filtro de Monedas;
+°Filtro de Monedas;
 
-Exibición de Resultados a los usuarios;
+°Exibición de Resultados a los usuarios;
